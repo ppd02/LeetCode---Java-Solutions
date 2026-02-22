@@ -26,19 +26,21 @@ This repository contains my solutions to **LeetCode problems** implemented in **
 ---
 
 ## 📁 Repository Structure
+
+```
 LeetCode---Java-Solutions
 │
-|- 1. Two Sum
-|- 2. Add Two Numbers
-|- ...
-|- README.md
-
+├── 1- Two Sum
+├── 2- Add Two Numbers
+├── ...
+└── README.md
+```
 
 Each folder contains:
+
 - ✅ Java solution file  
 - ✅ Optimized approach  
 - ✅ Clean implementation  
-
 ---
 
 ## 🛠 How to Use
